@@ -29,7 +29,7 @@ Jika Ritme versi debug sudah terpasang, buat backup terenkripsi terlebih dahulu.
 
 ## Status pengujian
 
-Versi 0.4.3 telah melewati 402 tes logika dan 6 tes perangkat di Samsung A54 Android 16. Tujuh langkah alur notifikasi dengan layar menyala juga lulus. Alarm saat layar mati, Doze, restart fisik, dan beberapa alur antarmuka masih perlu diuji lebih jauh. Lihat [catatan versi](https://github.com/noetherianism/Ritme/releases/latest) untuk hasil terbaru.
+Kode versi 0.4.3 telah melewati 402 tes logika. Enam tes perangkat dan tujuh langkah alur notifikasi dengan layar menyala lulus pada APK debug di Samsung A54 Android 16. APK rilis yang diunduh dari halaman ini belum dipasang di HP. Alarm saat layar mati, Doze, restart fisik, dan beberapa alur antarmuka masih perlu diuji lebih jauh. Lihat [catatan versi](https://github.com/noetherianism/Ritme/releases/latest) untuk hasil terbaru.
 
 ![Hari Ini dalam mode gelap](gambar/hari-ini-gelap.png)
 
