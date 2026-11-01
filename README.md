@@ -1,42 +1,57 @@
 # Ritme
 
-Hidup sudah cukup rumit. Jadwal mudah terlewat, sementara mencatat setiap pengeluaran satu per satu sering terasa seperti pekerjaan tambahan. Saya membuat Ritme agar kegiatan yang perlu diingat dan uang yang perlu dicatat punya satu tempat yang sederhana.
+Hidup sudah cukup rumit. Ada pekerjaan yang harus selesai, jadwal yang perlu diingat, dan pengeluaran kecil yang baru terasa banyak di akhir bulan. Mencatat semuanya terdengar sederhana, sampai kita harus melakukannya setiap hari.
 
-Ritme adalah aplikasi Android untuk pengingat kegiatan, rutinitas, dan catatan keuangan yang berjalan sepenuhnya di HP. Pengingat bisa ditangani langsung dari notifikasi. Bila Anda mengaktifkan impor keuangan, Ritme mengubah notifikasi baru dari bank atau dompet digital yang Anda pilih menjadi draf. Anda tetap memeriksa dan menyimpannya sendiri.
+Saya membuat Ritme karena ingin kebiasaan itu lebih mudah dijalani. Saat kegiatan perlu dimulai, ada pengingat. Saat transaksi masuk lewat notifikasi, ada bahan catatan yang tinggal diperiksa. Saat perhatian mulai ke mana-mana, ada waktu fokus yang bisa dipilih.
 
-[Unduh Ritme untuk Android](https://github.com/noetherianism/Ritme/releases/latest)
+Ritme menyatukan pengingat kegiatan, rutinitas, dan catatan keuangan dalam aplikasi Android yang berjalan di HP, tanpa akun atau koneksi internet.
 
-Ritme 1.0.0 tersedia untuk Android 8 atau lebih baru. Tidak perlu akun, iklan, atau koneksi internet.
+**[Unduh Ritme 1.0.0 untuk Android](https://github.com/noetherianism/Ritme/releases/download/v1.0.0/Ritme-1.0.0.apk)**
 
-![Hari Ini dalam mode terang](gambar/hari-ini-terang.png)
+Untuk Android 8 atau lebih baru. [Cara pasang](CARA-PASANG.md) · [Catatan versi](https://github.com/noetherianism/Ritme/releases)
 
-Gambar memakai data contoh untuk memperlihatkan tampilan aplikasi.
+## Pagi dimulai dengan tahu apa yang perlu dikerjakan
 
-## Yang bisa dilakukan
+Kadang kita sudah membuat rencana, lalu lupa membukanya lagi. Karena itu, saya ingin pengingat di Ritme bisa langsung ditanggapi. Mulai, tunda, lewati, atau tandai selesai dari notifikasi, tanpa harus mencari kegiatannya di dalam aplikasi.
 
-- Atur kegiatan sekali jalan dan rutinitas berulang. Mulai, tunda, lewati, atau selesaikan langsung dari notifikasi.
-- Pakai Pomodoro bila diperlukan untuk kegiatan Belajar atau Kerja, dengan 25 menit fokus dan 5 menit istirahat.
-- Lihat perkembangan kegiatan melalui streak sesuai jadwal dan XP sederhana.
-- Catat pemasukan, pengeluaran, transfer, anggaran, dan refund. Impor notifikasi bank atau dompet digital bersifat opsional dan tidak mengambil seluruh riwayat transaksi rekening.
-- Aktifkan jadwal sholat dan pengingatnya bila dibutuhkan.
-- Simpan salinan data dalam berkas backup terenkripsi yang Anda pegang sendiri.
+Kegiatan yang hanya terjadi sekali bisa dicatat sendiri. Untuk hal yang berulang, seperti belajar atau olahraga, rutinitas menyimpan jadwalnya agar tidak perlu dibuat dari awal setiap hari.
 
-Ritme tidak meminta izin internet. Data kegiatan dan keuangan tetap di HP. Backup memerlukan kata sandi yang Anda tentukan sendiri.
+![Kegiatan dan perkembangan di Hari Ini](gambar/hari-ini-terang.png)
 
-## Memasang
+*Tampilan dengan data contoh.*
 
-Unduh berkas APK dari halaman [Releases](https://github.com/noetherianism/Ritme/releases), lalu buka berkas itu di HP. Petunjuk pembaruan dan pemindahan data ada di [Cara pasang](CARA-PASANG.md).
+## Di sela hari, catatan uang tidak harus selalu dimulai dari nol
 
-Sebelum mengganti pemasangan Ritme yang sudah berisi data, buat backup terenkripsi dan pastikan berkasnya tersimpan.
+Setelah membayar sesuatu, biasanya kita langsung beralih ke urusan berikutnya. Mencatat nominal, tanggal, dan keterangannya mudah tertunda.
 
-## Sebelum dibagikan
+Itulah alasan saya menambahkan impor notifikasi. Jika diaktifkan, Ritme membaca notifikasi baru dari bank atau dompet digital yang Anda pilih, lalu menyiapkan draf transaksi. Anda memeriksa isinya sebelum menyimpan. Ritme tidak mengambil seluruh mutasi rekening, jadi catatan manual tetap tersedia untuk transaksi yang tidak muncul lewat notifikasi.
 
-Kode aplikasi telah melewati 402 tes logika. Saya juga memakai Ritme di HP sebelum membagikannya. Perubahan dan berkas unduhan terbaru ada di [catatan versi](https://github.com/noetherianism/Ritme/releases/latest).
+Pemasukan, pengeluaran, transfer, anggaran, dan refund ada di tempat yang sama. Tujuannya supaya kita bisa melihat ke mana uang pergi tanpa mengumpulkan catatan dari beberapa tempat.
 
-![Hari Ini dalam mode gelap](gambar/hari-ini-gelap.png)
+## Saat waktunya fokus, mulai dari satu sesi
 
-## Masukan
+Menyediakan waktu belajar belum tentu membuat kita langsung mulai. Saya menambahkan Pomodoro agar kegiatan yang terasa panjang bisa dimulai dari satu sesi fokus 25 menit, lalu istirahat 5 menit.
 
-Masalah penggunaan dan saran dapat ditulis di [Issues](https://github.com/noetherianism/Ritme/issues). Jangan sertakan nomor rekening, isi notifikasi bank, kata sandi backup, atau data pribadi. Untuk laporan celah keamanan, gunakan pelaporan privat GitHub jika tersedia.
+Pilihan ini muncul pada kategori Belajar dan Kerja. Tidak harus dipakai setiap kali. Saat sesi habis, Anda memilih apakah ingin istirahat, melanjutkan fokus, atau menyelesaikan kegiatan.
 
-Repositori ini hanya untuk informasi dan unduhan aplikasi. Kode sumber serta kunci penandatanganan tidak disimpan di sini.
+## Malam hari, lihat apa yang sudah berjalan
+
+Daftar kegiatan sering memperlihatkan hal yang belum selesai. Saya juga ingin Ritme memberi tempat untuk melihat yang sudah dikerjakan.
+
+Streak mengikuti jadwal rutinitas, sehingga hari istirahat tidak memutusnya. XP bertambah dari kegiatan yang ditandai selesai. Keduanya menjadi catatan kecil tentang kebiasaan yang mulai terbentuk.
+
+![Ritme dalam mode gelap](gambar/hari-ini-gelap.png)
+
+*Mode gelap dengan data contoh.*
+
+## Sesuaikan dengan keseharian sendiri
+
+Jadwal sholat dan pengingatnya bisa diaktifkan bila dibutuhkan. Tema terang atau gelap, bahasa Indonesia atau Inggris, serta pilihan format jam membantu Ritme terasa nyaman dipakai sehari-hari.
+
+Saya ingin catatan ini tetap menjadi milik orang yang menulisnya. Ritme tidak meminta izin internet dan tidak memiliki server untuk menyimpan kegiatan atau transaksi. Data berada di HP. Untuk menyimpan cadangan atau pindah perangkat, tersedia backup terenkripsi dengan kata sandi yang Anda tentukan sendiri.
+
+[Baca tentang privasi](PRIVASI.md)
+
+## Ikut membentuk Ritme
+
+Kalau ada bagian yang menyulitkan, tombol yang membingungkan, atau kebiasaan sehari-hari yang belum terbantu, ceritakan lewat [Issues](https://github.com/noetherianism/Ritme/issues). Jangan sertakan isi transaksi, nomor rekening, atau kata sandi.

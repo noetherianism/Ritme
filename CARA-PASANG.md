@@ -1,11 +1,11 @@
 # Cara pasang Ritme
 
-1. Unduh APK dari [halaman Releases](https://github.com/noetherianism/Ritme/releases/latest).
+1. [Unduh APK Ritme 1.0.0](https://github.com/noetherianism/Ritme/releases/download/v1.0.0/Ritme-1.0.0.apk).
 2. Buka berkas APK di HP Android 8 atau lebih baru.
 3. Bila Android meminta izin memasang dari sumber ini, berikan hanya untuk aplikasi yang Anda pakai membuka APK.
 4. Buka Ritme dan pilih izin notifikasi agar pengingat dapat muncul. Izin lokasi dan akses notifikasi bank bersifat opsional.
 
-Unduh APK hanya dari halaman GitHub ini. Nilai SHA-256 berkas dicantumkan pada catatan setiap versi agar Anda dapat memeriksa berkas yang diunduh.
+Unduh APK hanya dari halaman GitHub ini. Pilih berkas dengan akhiran `.apk` untuk dipasang di HP.
 
 ## Pembaruan berikutnya
 
