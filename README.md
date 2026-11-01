@@ -1,10 +1,12 @@
 # Ritme
 
-Ritme membantu mengatur kegiatan harian, rutinitas, dan catatan keuangan dalam satu aplikasi Android. Semua berjalan di perangkat tanpa akun, iklan, atau koneksi internet.
+Hidup sudah cukup rumit. Jadwal mudah terlewat, sementara mencatat setiap pengeluaran satu per satu sering terasa seperti pekerjaan tambahan. Saya membuat Ritme agar kegiatan yang perlu diingat dan uang yang perlu dicatat punya satu tempat yang sederhana.
+
+Ritme adalah aplikasi Android untuk pengingat kegiatan, rutinitas, dan catatan keuangan yang berjalan sepenuhnya di HP. Pengingat bisa ditangani langsung dari notifikasi. Bila Anda mengaktifkan impor keuangan, Ritme mengubah notifikasi baru dari bank atau dompet digital yang Anda pilih menjadi draf. Anda tetap memeriksa dan menyimpannya sendiri.
 
 [Unduh Ritme untuk Android](https://github.com/noetherianism/Ritme/releases/latest)
 
-Ritme masih dalam tahap pengembangan versi 0.x. Saat ini tersedia untuk Android 8 atau lebih baru.
+Ritme tersedia untuk Android 8 atau lebih baru. Tidak perlu akun, iklan, atau koneksi internet.
 
 ![Hari Ini dalam mode terang](gambar/hari-ini-terang.png)
 
@@ -15,7 +17,7 @@ Gambar memakai data contoh untuk memperlihatkan tampilan aplikasi.
 - Atur kegiatan sekali jalan dan rutinitas berulang. Mulai, tunda, lewati, atau selesaikan langsung dari notifikasi.
 - Pakai Pomodoro bila diperlukan untuk kegiatan Belajar atau Kerja, dengan 25 menit fokus dan 5 menit istirahat.
 - Lihat perkembangan kegiatan melalui streak sesuai jadwal dan XP sederhana.
-- Catat pemasukan, pengeluaran, transfer, anggaran, dan refund. Impor dari notifikasi bank atau dompet digital bersifat opsional dan hanya membaca notifikasi baru yang Anda izinkan.
+- Catat pemasukan, pengeluaran, transfer, anggaran, dan refund. Impor notifikasi bank atau dompet digital bersifat opsional dan tidak mengambil seluruh riwayat transaksi rekening.
 - Aktifkan jadwal sholat dan pengingatnya bila dibutuhkan.
 - Simpan salinan data dalam berkas backup terenkripsi yang Anda pegang sendiri.
 
@@ -25,11 +27,11 @@ Ritme tidak meminta izin internet. Data kegiatan dan keuangan tetap di HP. Backu
 
 Unduh berkas APK dari halaman [Releases](https://github.com/noetherianism/Ritme/releases), lalu buka berkas itu di HP. Petunjuk pembaruan dan pemindahan data ada di [Cara pasang](CARA-PASANG.md).
 
-Jika Ritme versi debug sudah terpasang, buat backup terenkripsi terlebih dahulu. APK unduhan publik memakai tanda tangan baru sehingga tidak dapat dipasang langsung sebagai pembaruan versi debug.
+Sebelum mengganti pemasangan Ritme yang sudah berisi data, buat backup terenkripsi dan pastikan berkasnya tersimpan.
 
 ## Status pengujian
 
-Kode versi 0.4.3 telah melewati 402 tes logika. Enam tes perangkat dan tujuh langkah alur notifikasi dengan layar menyala lulus pada APK debug di Samsung A54 Android 16. APK rilis yang diunduh dari halaman ini belum dipasang di HP. Alarm saat layar mati, Doze, restart fisik, dan beberapa alur antarmuka masih perlu diuji lebih jauh. Lihat [catatan versi](https://github.com/noetherianism/Ritme/releases/latest) untuk hasil terbaru.
+Kode aplikasi telah melewati 402 tes logika. APK unduhan belum diuji langsung di HP. Alarm saat layar mati, Doze, restart fisik, dan beberapa alur antarmuka masih perlu diuji lebih jauh. Lihat [catatan versi](https://github.com/noetherianism/Ritme/releases/latest) untuk hasil terbaru.
 
 ![Hari Ini dalam mode gelap](gambar/hari-ini-gelap.png)
 
