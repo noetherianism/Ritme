@@ -6,7 +6,7 @@ Ritme adalah aplikasi Android untuk pengingat kegiatan, rutinitas, dan catatan k
 
 [Unduh Ritme untuk Android](https://github.com/noetherianism/Ritme/releases/latest)
 
-Ritme tersedia untuk Android 8 atau lebih baru. Tidak perlu akun, iklan, atau koneksi internet.
+Ritme 1.0.0 tersedia untuk Android 8 atau lebih baru. Tidak perlu akun, iklan, atau koneksi internet.
 
 ![Hari Ini dalam mode terang](gambar/hari-ini-terang.png)
 
