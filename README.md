@@ -29,9 +29,9 @@ Unduh berkas APK dari halaman [Releases](https://github.com/noetherianism/Ritme/
 
 Sebelum mengganti pemasangan Ritme yang sudah berisi data, buat backup terenkripsi dan pastikan berkasnya tersimpan.
 
-## Status pengujian
+## Sebelum dibagikan
 
-Kode aplikasi telah melewati 402 tes logika. APK unduhan belum diuji langsung di HP. Alarm saat layar mati, Doze, restart fisik, dan beberapa alur antarmuka masih perlu diuji lebih jauh. Lihat [catatan versi](https://github.com/noetherianism/Ritme/releases/latest) untuk hasil terbaru.
+Kode aplikasi telah melewati 402 tes logika. Saya juga memakai Ritme di HP sebelum membagikannya. Perubahan dan berkas unduhan terbaru ada di [catatan versi](https://github.com/noetherianism/Ritme/releases/latest).
 
 ![Hari Ini dalam mode gelap](gambar/hari-ini-gelap.png)
 
