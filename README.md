@@ -6,7 +6,7 @@ Saya membuat Ritme karena ingin kebiasaan itu lebih mudah dijalani. Saat kegiata
 
 Ritme menyatukan pengingat kegiatan, rutinitas, dan catatan keuangan dalam aplikasi Android yang berjalan di HP, tanpa akun atau koneksi internet.
 
-**[Unduh Ritme 1.0.0 untuk Android](https://github.com/noetherianism/Ritme/releases/download/v1.0.0/Ritme-1.0.0.apk)**
+**[Unduh Ritme 1.0.1 untuk Android](https://github.com/noetherianism/Ritme/releases/download/v1.0.1/Ritme-1.0.1.apk)**
 
 Untuk Android 8 atau lebih baru. [Cara pasang](CARA-PASANG.md) · [Catatan versi](https://github.com/noetherianism/Ritme/releases)
 
