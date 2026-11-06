@@ -6,7 +6,7 @@ Saya membuat Ritme karena ingin kebiasaan itu lebih mudah dijalani. Saat kegiata
 
 Ritme menyatukan pengingat kegiatan, rutinitas, dan catatan keuangan dalam aplikasi Android yang berjalan di HP, tanpa akun atau koneksi internet.
 
-**[Unduh Ritme 1.0.0 build 1 untuk Android](https://github.com/noetherianism/Ritme/releases/download/v1.0.0-build1/Ritme-1.0.0-build1.apk)**
+**[Unduh Ritme 1.0.0 build 2 untuk Android](https://github.com/noetherianism/Ritme/releases/download/v1.0.0-build2/Ritme-1.0.0-build2.apk)**
 
 Untuk Android 8 atau lebih baru. [Cara pasang](CARA-PASANG.md) · [Catatan versi](https://github.com/noetherianism/Ritme/releases)
 
@@ -24,7 +24,7 @@ Kegiatan yang hanya terjadi sekali bisa dicatat sendiri. Untuk hal yang berulang
 
 Setelah membayar sesuatu, biasanya kita langsung beralih ke urusan berikutnya. Mencatat nominal, tanggal, dan keterangannya mudah tertunda.
 
-Itulah alasan saya menambahkan impor notifikasi. Jika diaktifkan, Ritme membaca notifikasi baru dari bank atau dompet digital yang Anda pilih, lalu menyiapkan draf transaksi. Anda memeriksa isinya sebelum menyimpan. Ritme tidak mengambil seluruh mutasi rekening, jadi catatan manual tetap tersedia untuk transaksi yang tidak muncul lewat notifikasi.
+Itulah alasan saya menambahkan impor notifikasi. Jika diaktifkan, Ritme membaca notifikasi baru dari bank atau dompet digital yang Anda pilih, lalu menyiapkan draf transaksi. Anda memeriksa isinya sebelum menyimpan. Setelah beberapa draf dari satu sumber terbukti benar, transaksi dari sumber itu bisa dicatat otomatis. Ritme tidak mengambil seluruh mutasi rekening, jadi catatan manual tetap tersedia untuk transaksi yang tidak muncul lewat notifikasi.
 
 Pemasukan, pengeluaran, transfer, anggaran, dan refund ada di tempat yang sama. Tujuannya supaya kita bisa melihat ke mana uang pergi tanpa mengumpulkan catatan dari beberapa tempat.
 
@@ -38,7 +38,7 @@ Pilihan ini muncul pada kategori Belajar dan Kerja. Tidak harus dipakai setiap k
 
 Daftar kegiatan sering memperlihatkan hal yang belum selesai. Saya juga ingin Ritme memberi tempat untuk melihat yang sudah dikerjakan.
 
-Streak mengikuti jadwal rutinitas, sehingga hari istirahat tidak memutusnya. XP bertambah dari kegiatan yang ditandai selesai. Keduanya menjadi catatan kecil tentang kebiasaan yang mulai terbentuk.
+Streak mengikuti jadwal rutinitas, sehingga hari istirahat tidak memutusnya. Angkanya muncul langsung di kegiatan itu, misalnya "5× beruntun" saat ditandai selesai, sebagai catatan kecil tentang kebiasaan yang mulai terbentuk.
 
 ![Ritme dalam mode gelap](gambar/hari-ini-gelap.png)
 
@@ -46,7 +46,7 @@ Streak mengikuti jadwal rutinitas, sehingga hari istirahat tidak memutusnya. XP 
 
 ## Sesuaikan dengan keseharian sendiri
 
-Jadwal sholat dan pengingatnya bisa diaktifkan bila dibutuhkan. Tema terang atau gelap, bahasa Indonesia atau Inggris, serta pilihan format jam membantu Ritme terasa nyaman dipakai sehari-hari.
+Jadwal sholat dan pengingatnya bisa diaktifkan bila dibutuhkan, lengkap dengan hitung mundur ke waktu berikutnya. Tema terang atau gelap, bahasa Indonesia atau Inggris, serta pilihan format jam membantu Ritme terasa nyaman dipakai sehari-hari.
 
 Saya ingin catatan ini tetap menjadi milik orang yang menulisnya. Ritme tidak meminta izin internet dan tidak memiliki server untuk menyimpan kegiatan atau transaksi. Data berada di HP. Untuk menyimpan cadangan atau pindah perangkat, tersedia backup terenkripsi dengan kata sandi yang Anda tentukan sendiri.
 
